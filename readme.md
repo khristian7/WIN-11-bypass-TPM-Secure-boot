@@ -1,6 +1,6 @@
 __# WIN-11-bypass-TPM-Secure-boot__
 
-## Bypass Your PC is not compatible using this registry script simple and easy 
+## Install Windows 11 on a PC that is not supported.
 [Follow our youtube channel to check out more](https://youtu.be/CyyoYxeoD-I)
 
 HOW TO USE THE FILE
